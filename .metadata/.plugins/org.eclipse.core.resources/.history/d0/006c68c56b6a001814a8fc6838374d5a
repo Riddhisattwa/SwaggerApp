@@ -1,0 +1,5 @@
+package com.swagger.app.controller;
+
+public class WelcomeController {
+
+}

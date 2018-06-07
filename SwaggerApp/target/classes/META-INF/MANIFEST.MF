@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SwaggerApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Riddhisattwa
+Implementation-Vendor-Id: com.swagger.app
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/SwaggerApp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

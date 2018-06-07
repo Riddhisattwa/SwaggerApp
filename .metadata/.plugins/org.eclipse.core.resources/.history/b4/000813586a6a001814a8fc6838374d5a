@@ -1,0 +1,17 @@
+package com.swagger.app;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+
+import com.arjuna.ats.internal.jdbc.drivers.modifiers.extensions;
+
+@SpringBootApplication
+public class Application {
+
+	public static void main(String[] args)throws Exception {
+		// TODO Auto-generated method stub
+		SpringApplication.run(Application.class, args)
+	}
+
+}
